@@ -1,0 +1,4 @@
+this is the demo web site for django learning
+this is 1st site using django
+and i am very happy
+29 gatey ho aaaja
